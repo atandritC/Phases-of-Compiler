@@ -14,7 +14,7 @@ This project showcases a simplified version of a compiler that processes an inpu
 
 ### Demonstration
 
-![Compiler Phases](https://yourimageurl.com/diagram.png)
+![Compiler Phases](https://github.com/atandritC/Project-Demos/blob/main/Compiler.gif)
 
 ### Installation and Usage Instructions (For End-Users)
 
